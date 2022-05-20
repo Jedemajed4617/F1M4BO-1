@@ -6,4 +6,4 @@
 
 ## afbeeldingen volgen nog + een link naar de website wnr die klaar is.
 
-## Wesbite af.
+https://trello.com/b/6gNLgRsA/stormspoofer-webshop -> Trello
