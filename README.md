@@ -6,4 +6,4 @@
 
 ## afbeeldingen volgen nog + een link naar de website wnr die klaar is.
 
-https://trello.com/invite/b/6gNLgRsA/7c2225c8c8cf93fdd469b26e14cee3a2/stormspoofer-webshop -> Trello
+https://trello.com/b/6gNLgRsA/stormspoofer-webshop -> Trello
